@@ -30,7 +30,6 @@
 <p>
   <img height="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png">
   <img height="48" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/2880px-Git-logo.svg.png">
-  <img height="48" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/GitLab_logo_2015.svg/490px-GitLab_logo_2015.svg.png">
   <img height="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">
   <img height="48" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1024px-Figma-logo.svg.png">
 </p>
