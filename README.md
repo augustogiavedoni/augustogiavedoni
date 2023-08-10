@@ -38,7 +38,3 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=augiavedoni&show_icons=true&hide_border=true)
 
-# Get in touch
-
-  * 💼 [LinkedIn](https://www.linkedin.com/in/augusto-patricio-giavedoni/)
-
