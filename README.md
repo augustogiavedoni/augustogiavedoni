@@ -36,5 +36,5 @@
 
 # My GitHub stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=augiavedoni&show_icons=true&hide_border=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=augustogiavedoni&show_icons=true&hide_border=true)
 
