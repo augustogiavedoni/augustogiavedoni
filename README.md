@@ -34,7 +34,3 @@
   <img height="48" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1024px-Figma-logo.svg.png">
 </p>
 
-# My GitHub stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=augustogiavedoni&show_icons=true&hide_border=true)
-
