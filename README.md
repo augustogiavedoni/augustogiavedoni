@@ -1,39 +1,41 @@
 # Augusto Giavedoni
 
-Software Architect focused on building reliable, scalable software systems.
+Software Architect with a strong background in mobile engineering, currently focused on expanding into cloud-native and AI-powered systems.
 
-I currently work as a **Flutter Architect at Paigo**, where I focus on mobile architecture, engineering practices and technical direction.
+I work as a **Flutter Architect at Paigo**, where I focus on mobile architecture, engineering practices and technical direction across multiple products and teams.
 
-After several years specializing in mobile development and Flutter, I'm currently expanding my work into **Google Cloud and Generative AI**, with a particular interest in production-grade AI systems, agents and cloud-native architectures.
+Over the last several years, most of my experience has been centered around Flutter, mobile development and software architecture. I'm now intentionally broadening that scope into **Google Cloud, backend systems and Generative AI**.
 
-## Current focus
-
-- Software and mobile architecture
-- Flutter at scale
-- Google Cloud
-- Python backend development
-- Generative AI with Gemini and Vertex AI
-- RAG and agentic systems
-- AI evaluation and observability
-- Infrastructure and production architecture
-
-## Background
+## Experience
 
 - **Flutter Architect** — Paigo
 - **Head of Engineering** — Creator Exchange
 - **Engineer II / Tech Lead** — Very Good Ventures
 - **Flutter Developer** — intive
 
-## Building & learning
+## Areas of expertise
 
-I'm currently documenting my transition deeper into Cloud and AI by building public projects around:
+- Software architecture
+- Mobile architecture
+- Flutter and Dart
+- Technical leadership
+- Engineering practices
+- Scalable application design
 
-- Cloud-native backend architectures
-- Production-ready RAG systems
+## Current learning focus
+
+I'm currently deepening my knowledge in:
+
+- Google Cloud
+- Python for backend systems
+- Cloud-native architecture
+- Generative AI
+- Gemini and Vertex AI
+- RAG and retrieval systems
 - AI agents and tool use
-- Mobile + AI integrations
+- Evaluation, observability and production AI systems
 
-More projects coming as I build them.
+My goal is to increasingly work at the intersection of **software architecture, cloud and AI**, while documenting what I learn through public projects and technical writing.
 
 ## Find me
 
