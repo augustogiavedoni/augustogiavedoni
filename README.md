@@ -1,36 +1,41 @@
-# About me
+# Augusto Giavedoni
 
-👨🏽‍💻 My name is Augusto.
+Software Architect focused on building reliable, scalable software systems.
 
-🎂 I’m 26 years old.
+I currently work as a **Flutter Architect at Paigo**, where I focus on mobile architecture, engineering practices and technical direction.
 
-📍 I’m currently living in Argentina 🇦🇷.
+After several years specializing in mobile development and Flutter, I'm currently expanding my work into **Google Cloud and Generative AI**, with a particular interest in production-grade AI systems, agents and cloud-native architectures.
 
-🚀 I’m a passionate software developer always trying to learn new technologies, new architectures or even learning new soft-skills such as team-management or leadership.
+## Current focus
 
-# Technologies
+- Software and mobile architecture
+- Flutter at scale
+- Google Cloud
+- Python backend development
+- Generative AI with Gemini and Vertex AI
+- RAG and agentic systems
+- AI evaluation and observability
+- Infrastructure and production architecture
 
-## Languages
+## Background
 
-<p>
-  <img height="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png">
-  <img height="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png">
-  <img height="48" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/400px-ISO_C%2B%2B_Logo.svg.png">
-</p>
+- **Flutter Architect** — Paigo
+- **Head of Engineering** — Creator Exchange
+- **Engineer II / Tech Lead** — Very Good Ventures
+- **Flutter Developer** — intive
 
-## Frameworks
+## Building & learning
 
-<p>
-  <img height="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png">
-  <img height="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png">
-</p>
+I'm currently documenting my transition deeper into Cloud and AI by building public projects around:
 
-## Tools
+- Cloud-native backend architectures
+- Production-ready RAG systems
+- AI agents and tool use
+- Mobile + AI integrations
 
-<p>
-  <img height="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png">
-  <img height="48" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/2880px-Git-logo.svg.png">
-  <img height="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">
-  <img height="48" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1024px-Figma-logo.svg.png">
-</p>
+More projects coming as I build them.
 
+## Find me
+
+- [LinkedIn](https://www.linkedin.com/in/augusto-patricio-giavedoni/)
+- [X](https://x.com/agvdni)
